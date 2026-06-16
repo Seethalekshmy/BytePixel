@@ -1,7 +1,4 @@
 # BytePixel
-Open-source pixel display font
-# Sciforge Pixel Font
-
 BytePixel is a modular pixel-style open source display font.
 
 
