@@ -1,6 +1,7 @@
 # BytePixel
 BytePixel is a modular pixel-style open source display font.
 
+<img width="1480" height="300" alt="image" src="https://github.com/user-attachments/assets/d513ac85-48ee-4c74-943d-64faebbd7c20" />
 
 ## Features
 - Uppercase A–Z
@@ -15,7 +16,7 @@ BytePixel is a modular pixel-style open source display font.
 - Developer tools
 
 ## Installation
-Download the font and install it like any standard .otf file.
+Download the [font](BytePixel.ttf) and install it like any standard .ttf file.
 
 ## License
  BytePixel Font is licensed under the **SIL Open Font License (OFL) Version 1.1**.
