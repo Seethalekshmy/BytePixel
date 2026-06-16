@@ -1,0 +1,18 @@
+<svg width="500" height="700" viewBox="0 0 500 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 99)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 99)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 199)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 599)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 199)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 299)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 399)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 299)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 499)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 399)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 400 599)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 0 499)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 200 499)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 100 699)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 300 699)" fill="#00FFF7" stroke="black"/>
+<rect x="0.5" y="-0.5" width="99" height="99" transform="matrix(1 0 0 -1 200 599)" fill="#00FFF7" stroke="black"/>
+</svg>

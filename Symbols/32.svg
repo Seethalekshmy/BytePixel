@@ -1,0 +1,17 @@
+<svg width="500" height="700" viewBox="0 0 500 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="100.428" width="97.6" height="97.4286" fill="white"/>
+<rect x="100.602" width="97.6" height="97.4286" fill="white"/>
+<rect x="201.199" width="97.6" height="97.4286" fill="white"/>
+<rect y="502.143" width="97.6" height="97.4286" fill="white"/>
+<rect x="301.801" y="502.143" width="97.6" height="97.4286" fill="white"/>
+<rect x="100.602" y="602.572" width="97.6" height="97.4286" fill="white"/>
+<rect x="201.199" y="602.572" width="97.6" height="97.4286" fill="white"/>
+<rect x="402.398" y="602.572" width="97.6" height="97.4286" fill="white"/>
+<rect x="402.398" y="401.715" width="97.6" height="97.4286" fill="white"/>
+<rect x="201.199" y="401.715" width="97.6" height="97.4286" fill="white"/>
+<path d="M0 401.715H97.6V499.143H0V401.715Z" fill="white"/>
+<path d="M100.602 301.285H198.202V398.714H100.602V301.285Z" fill="white"/>
+<rect y="200.857" width="97.6" height="97.4286" fill="white"/>
+<rect x="301.801" y="100.428" width="97.6" height="97.4286" fill="white"/>
+<path d="M201.199 200.857H298.799V298.286H201.199V200.857Z" fill="white"/>
+</svg>
